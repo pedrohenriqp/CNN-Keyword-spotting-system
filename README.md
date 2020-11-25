@@ -1,1 +1,1 @@
-# keyword-spotting-sysem
+# keyword-spotting-system
